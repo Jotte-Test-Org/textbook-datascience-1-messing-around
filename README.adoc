@@ -127,3 +127,20 @@ The progress of the publishing workflow may otherwise be reviewed: https://githu
 The textbook authoring- and build-environment is provided as https://github.com/uchicago-dsi/textbook-datascience-1/pkgs/container/textbook-jupyter-service[a Docker container], the image of which is maintained under directory link:image/[].
 
 Changes to any files under that directory, once pushed to the repository, trigger the rebuild and push of that image, via the https://github.com/uchicago-dsi/textbook-datascience-1/actions/workflows/image.yml[Github Actions workflow: Image] (controlled via link:.github/workflows/image.yml[image.yml]).
+
+== License
+
+All content in this repository — including text, code, notebooks, and figures — is licensed under the  
+[Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license.  
+© 2019–2025 University of Chicago.
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- **NonCommercial** — You may not use the material for commercial purposes.
+
+If you have questions about reuse or would like to request permission for commercial use, please contact Amanda Jotte at akube@uchicago.edu.
+
