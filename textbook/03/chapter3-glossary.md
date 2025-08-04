@@ -1,5 +1,5 @@
-# Term
+## Term
 Definition
 
-# Term
+## Term
 Definition
