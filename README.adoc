@@ -131,7 +131,7 @@ Changes to any files under that directory, once pushed to the repository, trigge
 == License
 
 All content in this repository — including text, code, notebooks, and figures — is licensed under the  
-[Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license.  
+[Creative Commons Attribution–NonCommercial 4.0 International [(CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license.  
 © 2019–2025 University of Chicago.
 
 You are free to:
