@@ -1,8 +1,9 @@
 name: Textbook
 
 on:
-  release:
-    types: [published]
+  # release:
+  #   types: [published]
+  workflow_dispatch:
 
 permissions:
   contents: read
