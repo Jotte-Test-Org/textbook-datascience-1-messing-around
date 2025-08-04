@@ -277,9 +277,11 @@ parts:
   - title: "Case Study"
     file: 30/placeholder30
 
-  - title: "Glossary"
+  - title: "Glossary of Terms"
     file: glossary.md
-
+    
+  - title: "Glossary of Code"
+    file: code-glossary.md
 
 
 
